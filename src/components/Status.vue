@@ -1,7 +1,6 @@
 <template>
   <div>
-    <h1>{{homeTitle}}</h1>
-    <AppStatus></AppStatus>
+    <h1>{{statusTitle}}</h1>
   </div>
 </template>
 
@@ -9,7 +8,7 @@
   export default {
     data () {
       return {
-        homeTitle: "홈2 입니다"
+        statusTitle: "전역컴포넌트 연습"
       }
     }
   }
