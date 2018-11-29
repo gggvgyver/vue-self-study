@@ -9,7 +9,7 @@
   export default {
     data () {
       return {
-        homeTitle: "홈2 입니다"
+        homeTitle: "페이지명: Home2.vue"
       }
     }
   }
