@@ -9,7 +9,7 @@
 </template>
 
 <script>
-  import Home2 from './components/Home2'
+  import Home2 from './components/Home2'  //확장자 생략가능 Home2.vue -> Home2
   
   export default {
     components: {
